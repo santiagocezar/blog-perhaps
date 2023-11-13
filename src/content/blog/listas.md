@@ -9,7 +9,7 @@ HOLA ACÁ VOY A EXPLICAR SOBRE LISTAS ENLAZADAS EN C
 
 ## ¿Por qué listas enlazadas?
 
-En C, todas las **variables** que usa nuestro programa se guardan en la memoria de forma **secuencial**, ya sean ints, strings, structs o arrays. Cada variable ocupa cierto **espacio** y cuando compilamos el código se calcula **cuanta memoria** usará cada ~~función~~ módulo **en total**.
+En C, todas las **variables** que usa nuestro programa se guardan en la memoria de forma **secuencial**, ya sean ints, strings, structs o arrays. Cada variable ocupa cierto **espacio** y cuando compilamos el código se calcula **cuanta memoria** usará cada ~~módulo~~ función **en total**.
 
 *Lo cual es un problema.*
 
