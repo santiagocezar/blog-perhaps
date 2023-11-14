@@ -1,8 +1,8 @@
 ---
 title: 'Listas en C'
 description: 'Lorem ipsum dolor sit amet'
-pubDate: 'Jul 08 2022'
-heroImage: '/blog-placeholder-3.jpg'
+pubDate: 'Jul 13 2023'
+heroImage: '/listas/thumb.jpg'
 ---
 
 HOLA ACÁ VOY A EXPLICAR SOBRE LISTAS ENLAZADAS EN C
